@@ -19,4 +19,4 @@ print("Hello World")
 [嘿，这是我的GitHub](https://github.com/Appler-R/echosoul/edit/main/README.md)  
 
 蓝色链接通过[] ()实现，前面中括号装你想表达的文字，后面小括号装你的URL  
-（注意两个括号紧贴，没有空格，我是为了演示）
+（注意两个括号紧贴，无空格）
